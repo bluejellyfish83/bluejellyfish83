@@ -1,5 +1,5 @@
-## Hi there 👋
-#College founder building AI Automated Systems + Agentive Networks 🦾
+## College founder building AI Automated Systems + Agentive Networks 🦾
+# Currently studying AI + Math at Hong Kong University of Science & Technology
 <!--
 **bluejellyfish83/bluejellyfish83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
